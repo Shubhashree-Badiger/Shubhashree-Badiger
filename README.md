@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👋 Hey!, This is Shubhashree  <br><br>🔭 AIML student @ Vidyavardhaka College of Engineering Mysore <br>🌱 Growing with learning things<br>⚡ Passionate in techiee world 
+👋 Hey!, This is Shubhashree  <br><br>🔭 CSE-AIML Student at VVCE, Mysuru <br>⚡ Driving Tech Innovation through Advanced Programming <br>🌱 Growing with learning things
 
 <!--
 **Shubhashree-Badiger/Shubhashree-Badiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
